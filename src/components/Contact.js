@@ -82,6 +82,7 @@ const Contact = () => {
             method="POST"
             data-netlify="true"
             netlify-honeypot="bot-field"
+            action="/success"
             className="flex flex-col p-3 rounded-xl bg-pink-100 md:w-1/2 md:p-4 lg:px-6 lg:py-7 lg:m-4 lg:w-3/5 shadow-inner"
           >
             {/* Required by Netlify */}
