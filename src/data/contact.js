@@ -6,11 +6,11 @@ const ContactData = {
   address: "Cuilapa, Santa Rosa, Guatemala",
   links: [
     {
-      url: "https://github.com/daniela-castillo-giron", // Update this if you have a GitHub profile
+      url: "https://github.com/daniela-castillo-giron",
       icon: FaGithub,
     },
     {
-      url: "https://www.linkedin.com/in/linda-castillo-giron/",
+      url: "https://www.linkedin.com/in/daniela-castillo-giron/",
       icon: FaLinkedin,
     },
   ],
