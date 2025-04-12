@@ -20,12 +20,12 @@ const ExperienceData = [
     company: "Superintendencia de Administración Tributaria (SAT)",
     duration: "June 2023 – December 2023",
     description: [
-      "Reduced production errors by 35% through automated API testing in Postman for critical REST endpoints.",
-      "Improved system stability by 25% by identifying performance bottlenecks with Apache JMeter on Linux servers.",
-      "Increased manual test coverage by 50% with structured test cases for functional, regression, and integration testing.",
-      "Accelerated bug resolution by 40% via precise reporting supported by technical evidence like logs and reproduction steps.",
-      "Strengthened QA-dev collaboration by validating functionality during every SCRUM sprint.",
-      "Validated data integrity in PostgreSQL and monitored system logs to proactively detect backend issues.",
+      "Reduced production errors by 35% through automated testing with Postman, covering critical REST API endpoints and ensuring accurate responses across various usage scenarios.",
+      "Improved system stability by 25% by identifying bottlenecks using Apache JMeter load tests, enabling the team to make data-driven technical decisions before each release.",
+      "Increased manual test coverage by 50% by designing structured test cases for functional, regression, and integration testing, aligned with acceptance criteria defined with product owners.",
+      "Accelerated bug validation and resolution by 40% through a precise reporting process backed by technical evidence such as logs, screenshots, and reproducible steps.",
+      "Strengthened QA-dev collaboration by actively participating in SCRUM ceremonies and validating features in every sprint, enabling faster and more reliable releases.",
+      "Validated data integrity in PostgreSQL and monitored logs on Linux servers to detect and resolve backend inconsistencies and silent system errors.",
     ],
   },
 ];
